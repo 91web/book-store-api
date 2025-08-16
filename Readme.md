@@ -158,7 +158,3 @@ Contributions are welcome! Feel free to fork the repository, make your changes, 
 ## License  
 This project is licensed under the MIT License.  
 ```
-
----
-
-Save this content as `README.md` in your project directory, and it’s ready to go! Let me know if you need further adjustments. 🚀
